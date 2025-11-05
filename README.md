@@ -8,7 +8,7 @@ Atualmente, curso Engenharia de Software pela Estácio, área que reflete meu in
 
 ---
 
-### 🖨 Linguagens e Tecnologias
+### 💻 Linguagens e Tecnologias
 <img 
 align="left"
 alt="HTML"
