@@ -4,7 +4,7 @@
 
 Meu nome é Samuel Brandão de Lima, tenho 19 anos e sou natural de Alagoas. Iniciei o ensino médio no Instituto Federal de Alagoas (IFAL), onde cursei o eixo técnico de Informática, e concluí a formação em Pernambuco, em um colégio convencional, em virtude de minha mudança de estado.
 
-Atualmente, curso Engenharia de Software pela Estácio, área que reflete meu interesse e entusiasmo pela tecnologia, matemática e estruturas de dados. Tenho como objetivo desenvolver minhas habilidades técnicas e analíticas, buscando desafios que contribuam para meu crescimento profissional e para a construção de uma carreira sólida e de alto desempenho no setor de tecnologia.
+Atualmente, curso Ciência da Computação pela Estácio, área que reflete meu interesse e entusiasmo pela tecnologia, matemática e estruturas de dados. Tenho como objetivo desenvolver minhas habilidades técnicas e analíticas, buscando desafios que contribuam para meu crescimento profissional e para a construção de uma carreira sólida e de alto desempenho no setor de tecnologia.
 
 ---
 
