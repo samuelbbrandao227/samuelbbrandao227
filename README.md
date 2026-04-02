@@ -1,14 +1,14 @@
 # 🚀 Samuel Brandão
 
-**`Desenvolvedor Backend`**
+**`Backend Developer`**
 
-Meu nome é Samuel Brandão de Lima, tenho 19 anos e sou natural de Alagoas. Iniciei o ensino médio no Instituto Federal de Alagoas (IFAL), onde cursei o eixo técnico de Informática, e concluí a formação em Pernambuco, em um colégio convencional, em virtude de minha mudança de estado.
+My name is Samuel Brandão de Lima, I am 19 years old and originally from Alagoas, Brazil. I started my high school education at the Federal Institute of Alagoas (IFAL), where I pursued a technical track in Information Technology, and completed my studies in Pernambuco after relocating.
 
-Atualmente, curso Ciência da Computação pela Estácio, área que reflete meu interesse e entusiasmo pela tecnologia, matemática e estruturas de dados. Tenho como objetivo desenvolver minhas habilidades técnicas e analíticas, buscando desafios que contribuam para meu crescimento profissional e para a construção de uma carreira sólida e de alto desempenho no setor de tecnologia.
+I am currently pursuing a degree in Computer Science at Estácio, a field that reflects my strong interest in technology, mathematics, and data structures. My goal is to continuously develop my technical and analytical skills, seeking challenges that contribute to my professional growth and to building a solid, high-performance career in the technology sector.
 
 ---
 
-### 💻 Linguagens e Tecnologias
+### 💻 Languages and Tecnologies
 <img 
 align="left"
 alt="HTML"
