@@ -14,6 +14,14 @@ I am continuously improving my technical and analytical skills, seeking real-wor
 
 <img 
 align="left"
+alt="Python"
+title="Python"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+<img 
+align="left"
 alt="Ruby"
 title="Ruby (Learning & Focus)"
 width="30px"
@@ -39,14 +47,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-ori
 <br/><br/>
 
 ### ⚙️ Experience
-
-<img 
-align="left"
-alt="Python"
-title="Python"
-width="30px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
 <img 
 align="left"
