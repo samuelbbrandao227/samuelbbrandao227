@@ -22,14 +22,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
 
 <img 
 align="left"
-alt="Ruby"
-title="Ruby (Learning & Focus)"
-width="30px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />
-
-<img 
-align="left"
 alt="Git"
 title="Git"
 width="30px"
